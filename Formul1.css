@@ -16,3 +16,7 @@
     border-radius: 6px;
     padding: 4px;
   }
+
+  :required {
+    background-color:#F2A3BB;
+  }
